@@ -1,0 +1,7 @@
+pandas
+dask[dataframe]
+pyspark
+matplotlib
+seaborn
+pyarrow
+fastparquet
